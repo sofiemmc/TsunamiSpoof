@@ -1,0 +1,4 @@
+﻿  SolucionSumaArreglosParalela2.cpp
+C:\Users\sofia\Documents\proyectosOMP\SolucionSumaArreglosParalela2\SolucionSumaArreglosParalela2\SolucionSumaArreglosParalela2.cpp(22,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\sofia\Documents\proyectosOMP\SolucionSumaArreglosParalela2\SolucionSumaArreglosParalela2\SolucionSumaArreglosParalela2.cpp(23,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  SolucionSumaArreglosParalela2.vcxproj -> C:\Users\sofia\Documents\proyectosOMP\SolucionSumaArreglosParalela2\x64\Debug\SolucionSumaArreglosParalela2.exe
